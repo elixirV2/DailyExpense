@@ -1,2 +1,2 @@
 # DailyExpense
-WEB app which helps with calculating dayli expense
+WEB app which helps with calculating daily expense
